@@ -1,0 +1,37 @@
+
+body{
+	background-color: white;
+}
+
+.podaci{
+	font-family: cursive;
+}
+
+h1{
+	margin-top: 10%;
+	color: white;
+	text-align: center;
+	font-weight: bold;
+	font-family: cursive;
+}
+h1 a {
+	text-decoration: none;
+    color: white;
+}
+h1 a:hover{
+	color: white;
+}
+.lista{
+	margin-top: 30%;
+	color: white;
+	font-size: large;
+}
+li a {
+	font-family: cursive;
+	color: white;
+	text-decoration: none;
+
+}
+li a:hover{
+	color: #800202;
+}
